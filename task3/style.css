@@ -1,0 +1,41 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+    
+.marked {
+    background-color: #a4caf5;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+}
+li {
+    cursor: pointer;
+}
+    
+button {
+    width: 40px;
+    height:20px;
+}
+    
+table {
+    width: 30%;
+}
+    
+th, td {
+    vertical-align: top;
+    width: 40%;
+}
+    
+.buttons {
+    width: 20%;
+    transform: translateY(20px);
+}
+    
+ul {
+    list-style-position: inside;     
+    margin-left: 0px; 
+    position: relative;
+}

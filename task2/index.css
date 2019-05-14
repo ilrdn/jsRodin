@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.red {
+    background: #900;
+    width: 100px;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+    transform: translateX(-204px);
+    cursor: pointer;
+    }
+    
+.green {
+    background: #090;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+    transform: translateX(-308px);
+    cursor: pointer;
+    }
+    
+.blue {
+    background: #009;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    }
+    
